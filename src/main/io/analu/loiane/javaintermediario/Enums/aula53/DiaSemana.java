@@ -1,4 +1,4 @@
-package main.io.analu.loiane.javaintermediario.Enums;
+package main.io.analu.loiane.javaintermediario.Enums.aula53;
 
 public enum DiaSemana {
 

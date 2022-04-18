@@ -1,7 +1,7 @@
 package test.io.analu.loiane.javaintermediario.Enums;
 
-import main.io.analu.loiane.javaintermediario.Enums.DiaSemana;
-import main.io.analu.loiane.javaintermediario.Enums.DiaSemanaConstantes;
+import main.io.analu.loiane.javaintermediario.Enums.aula53.DiaSemana;
+import main.io.analu.loiane.javaintermediario.Enums.aula53.DiaSemanaConstantes;
 
 public class DiaSemanaTest {
     public static void main(String[] args) {
